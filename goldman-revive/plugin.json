@@ -1,0 +1,7 @@
+{
+  "id": "goldman-revive",
+  "name": "Goldman Revive",
+  "enabled": true,
+  "entry": "plugin.js",
+  "handleKey": "__EF_GOLDMAN_REVIVE_HANDLE__"
+}
